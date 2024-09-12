@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**Warning: It is unsafe to use standard multicall3 for batch transfers. Please deploy limited-use multicall3 for batch transfers.**
+
 ## Available Scripts
 
 In the project directory, you can run:
